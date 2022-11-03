@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithEnums", "FunWithEnums\FunWithEnums.csproj", "{06B77DB4-E9EC-45EB-B386-5C5F0713CD7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithBitwiseOperations.", "FunWithBitwiseOperations\FunWithBitwiseOperations..csproj", "{460749FF-35B3-4373-B844-6A84364943AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{06B77DB4-E9EC-45EB-B386-5C5F0713CD7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06B77DB4-E9EC-45EB-B386-5C5F0713CD7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06B77DB4-E9EC-45EB-B386-5C5F0713CD7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{460749FF-35B3-4373-B844-6A84364943AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460749FF-35B3-4373-B844-6A84364943AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460749FF-35B3-4373-B844-6A84364943AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460749FF-35B3-4373-B844-6A84364943AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
