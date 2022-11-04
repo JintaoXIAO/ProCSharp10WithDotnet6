@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstData", "ConstData\Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithPartials", "FunWithPartials\FunWithPartials.csproj", "{53488935-10FB-41AA-8929-612E4579598C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithRecords", "FunWithRecords\FunWithRecords.csproj", "{91677A99-01F6-47A2-AF57-83C04CE55609}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{53488935-10FB-41AA-8929-612E4579598C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53488935-10FB-41AA-8929-612E4579598C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53488935-10FB-41AA-8929-612E4579598C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91677A99-01F6-47A2-AF57-83C04CE55609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91677A99-01F6-47A2-AF57-83C04CE55609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91677A99-01F6-47A2-AF57-83C04CE55609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91677A99-01F6-47A2-AF57-83C04CE55609}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
