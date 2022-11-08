@@ -57,6 +57,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericDelegate", "GenericD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarEvents", "CarEvents\CarEvents.csproj", "{BD922892-51FA-4B28-B7A4-78B45AD4754F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{0F3E18B7-7EF2-4F58-9180-31EA769CA480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqOverArray", "LinqOverArray\LinqOverArray.csproj", "{D34E93B5-F233-4BA1-892F-0426D371D454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqOverCollections", "LinqOverCollections\LinqOverCollections.csproj", "{E471BF3D-1FDA-415A-BA67-155D94B57865}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -174,5 +180,17 @@ Global
 		{BD922892-51FA-4B28-B7A4-78B45AD4754F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD922892-51FA-4B28-B7A4-78B45AD4754F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD922892-51FA-4B28-B7A4-78B45AD4754F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3E18B7-7EF2-4F58-9180-31EA769CA480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3E18B7-7EF2-4F58-9180-31EA769CA480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3E18B7-7EF2-4F58-9180-31EA769CA480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3E18B7-7EF2-4F58-9180-31EA769CA480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34E93B5-F233-4BA1-892F-0426D371D454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34E93B5-F233-4BA1-892F-0426D371D454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34E93B5-F233-4BA1-892F-0426D371D454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34E93B5-F233-4BA1-892F-0426D371D454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E471BF3D-1FDA-415A-BA67-155D94B57865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E471BF3D-1FDA-415A-BA67-155D94B57865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E471BF3D-1FDA-415A-BA67-155D94B57865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E471BF3D-1FDA-415A-BA67-155D94B57865}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
