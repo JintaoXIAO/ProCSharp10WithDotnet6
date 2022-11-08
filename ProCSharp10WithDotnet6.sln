@@ -63,6 +63,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqOverArray", "LinqOverAr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqOverCollections", "LinqOverCollections\LinqOverCollections.csproj", "{E471BF3D-1FDA-415A-BA67-155D94B57865}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessManipulator", "ProcessManipulator\ProcessManipulator.csproj", "{E0A2034F-5DE2-4AB1-955A-6D1A34BFF0D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadStatus", "ThreadStatus\ThreadStatus.csproj", "{EB2D689D-ACC8-4B8F-8CD5-19AEB102BE11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMultiThreadApp", "SimpleMultiThreadApp\SimpleMultiThreadApp.csproj", "{699DBD64-0D73-4017-B437-E5AF7D34FEEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -192,5 +198,17 @@ Global
 		{E471BF3D-1FDA-415A-BA67-155D94B57865}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E471BF3D-1FDA-415A-BA67-155D94B57865}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E471BF3D-1FDA-415A-BA67-155D94B57865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0A2034F-5DE2-4AB1-955A-6D1A34BFF0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A2034F-5DE2-4AB1-955A-6D1A34BFF0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A2034F-5DE2-4AB1-955A-6D1A34BFF0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A2034F-5DE2-4AB1-955A-6D1A34BFF0D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB2D689D-ACC8-4B8F-8CD5-19AEB102BE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2D689D-ACC8-4B8F-8CD5-19AEB102BE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2D689D-ACC8-4B8F-8CD5-19AEB102BE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2D689D-ACC8-4B8F-8CD5-19AEB102BE11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{699DBD64-0D73-4017-B437-E5AF7D34FEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699DBD64-0D73-4017-B437-E5AF7D34FEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699DBD64-0D73-4017-B437-E5AF7D34FEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699DBD64-0D73-4017-B437-E5AF7D34FEEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
